@@ -7,12 +7,13 @@ namespace Menu
         static void Main(string[] args)
         {
             string? opcao;
+            bool exibirMenu = true;
 
-            while(true)
+            while(exibirMenu)
             {
                 Console.Clear();
                 Thread.Sleep(200);
-                
+
                 Console.WriteLine("Digite a sua opcao:");
                 Console.WriteLine("1 - Cadastrar cliente");
                 Console.WriteLine("2 - Buscar cliente");
@@ -37,7 +38,8 @@ namespace Menu
 
                     case "4":
                         Console.WriteLine("Encerrar.");
-                        Environment.Exit(0);
+                        exibirMenu = false;
+                        //Environment.Exit(0);
                         break;
 
                     default:
@@ -45,6 +47,7 @@ namespace Menu
                         break;
                 }
             }
+    Console.WriteLine("O programa se encerrou.");
         }
-    }
+    }       
 }
