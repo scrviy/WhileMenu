@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "WhileMenu.Common/1.0.0": {
+        "runtime": {
+          "WhileMenu.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WhileMenu.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

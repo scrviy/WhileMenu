@@ -1,0 +1,12 @@
+/home/scrviy/dev/dotnet/WhileMenu/WhileMenu.Common/bin/Debug/net7.0/WhileMenu.Common.deps.json
+/home/scrviy/dev/dotnet/WhileMenu/WhileMenu.Common/bin/Debug/net7.0/WhileMenu.Common.dll
+/home/scrviy/dev/dotnet/WhileMenu/WhileMenu.Common/bin/Debug/net7.0/WhileMenu.Common.pdb
+/home/scrviy/dev/dotnet/WhileMenu/WhileMenu.Common/obj/Debug/net7.0/WhileMenu.Common.csproj.AssemblyReference.cache
+/home/scrviy/dev/dotnet/WhileMenu/WhileMenu.Common/obj/Debug/net7.0/WhileMenu.Common.GeneratedMSBuildEditorConfig.editorconfig
+/home/scrviy/dev/dotnet/WhileMenu/WhileMenu.Common/obj/Debug/net7.0/WhileMenu.Common.AssemblyInfoInputs.cache
+/home/scrviy/dev/dotnet/WhileMenu/WhileMenu.Common/obj/Debug/net7.0/WhileMenu.Common.AssemblyInfo.cs
+/home/scrviy/dev/dotnet/WhileMenu/WhileMenu.Common/obj/Debug/net7.0/WhileMenu.Common.csproj.CoreCompileInputs.cache
+/home/scrviy/dev/dotnet/WhileMenu/WhileMenu.Common/obj/Debug/net7.0/WhileMenu.Common.dll
+/home/scrviy/dev/dotnet/WhileMenu/WhileMenu.Common/obj/Debug/net7.0/refint/WhileMenu.Common.dll
+/home/scrviy/dev/dotnet/WhileMenu/WhileMenu.Common/obj/Debug/net7.0/WhileMenu.Common.pdb
+/home/scrviy/dev/dotnet/WhileMenu/WhileMenu.Common/obj/Debug/net7.0/ref/WhileMenu.Common.dll

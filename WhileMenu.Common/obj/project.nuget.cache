@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g/ckfnM8VzhbPYqjD22TBMl6ubkbiSSn5oyoPNOvgdYdpAt+A7pj5f1KGNnqifdRDBjU9/p3dnJ90vVD5gsLTw==",
+  "success": true,
+  "projectFilePath": "/home/scrviy/dev/dotnet/WhileMenu/WhileMenu.Common/WhileMenu.Common.csproj",
+  "expectedPackageFiles": [
+    "/home/scrviy/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.1/microsoft.aspnetcore.app.ref.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
